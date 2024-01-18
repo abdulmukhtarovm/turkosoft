@@ -156,8 +156,22 @@ export const en = {
   
   sertificate: "Certificates",
   
+  otziv: "Feedbacks from our customers",
   
-  
+  feedback_desc1:"As Bilge private schools, we have been communicating between student, parent and school using learning automation for almost 2 years. The communication system we use is suitable to support whatever work we need and want to do, but its guidelines are very clear, it's fairly easy to access, and it's an application with a high user satisfaction rate. The great power of adaptation to changing conditions, the presence of a modern and innovative program has the most important share among our reasons for choosing.",
+  feedback_auth1:"CEO of kindergarten - Gülay Gürçay",
+  feedback_kind1: "Private Bilge kindergartens",
+
+  feedback_desc2:"As the first and only Montessori kindergarten in Beykoz, 4 years ago we founded the Hangelci Montessori kindergarten family. We have been working with the OkulAile team for 3 years. We are an institution that defends nature and forest education and also strives to prevent waste. We send food scraps to the chicken coop, raw vegetable and fruit scraps to compost, and paper to be recycled. Thanks to OkulAile, we make announcements to our parents without using paper. Our parents can keep an eye on what their child is doing during the day so that they have plenty to talk about at home in the evening. Thanks to the messaging module, we communicate much more healthily and record. OKULAILE has parent, teacher and administrative groups such as monthly newsletters, surveys, documents and dues. Whenever we have any problem, the support team comes immediately and they fix our problem. We see the friendly and warm-blooded OKULAILE staff who are now part of the Montessori family. Thank you for making our task easier.",
+  feedback_auth2:"Founder of Emine Çengelci",
+  feedback_kind2: "Çengelci kindergarten",
+
+  feedback_desc3:"OkulAile app is a business-friendly platform that meets our needs with its design and content that makes our work life easier. He has excellent customer service and technical services and is available at all times. The more we use, the better we say that the school system that we love and love so much, I think it is for these reasons that it gets a ten out of ten from us. Many thanks to their designers and your entire team. It's good that you're in business.",
+  feedback_auth3:"Bilge Arılar kindergarten Manager",
+  feedback_kind3: "Bilge Arılar kindergarten",
+
+  readmore: "read more",
+  readless: "read less",
   
   
   };

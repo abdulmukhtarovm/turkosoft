@@ -74,6 +74,9 @@ const Navbar = () => {
                     <FontAwesomeIcon icon={faGlobe} />
                   </span>
                   <select className="siteLang" onChange={changeLanguage}>
+                  <option value="uz" selected={getLanguage() === "uz"}>
+                      O‘zbek
+                    </option>
                     <option value="ru" selected={getLanguage() === "ru"}>
                       Русский
                     </option>
@@ -83,9 +86,7 @@ const Navbar = () => {
                     <option value="tr" selected={getLanguage() === "tr"}>
                       Türkçe
                     </option>
-                    <option value="uz" selected={getLanguage() === "uz"}>
-                      O‘zbek
-                    </option>
+                 
                   </select>
                 </li>
                 {/* <li className="position-relative">

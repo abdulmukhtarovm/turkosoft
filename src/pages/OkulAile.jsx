@@ -7,6 +7,7 @@ import {
   faPhotoFilm,
 } from "@fortawesome/free-solid-svg-icons";
 import { faComments } from "@fortawesome/free-regular-svg-icons";
+import Feedback from "../components/Feedback";
 
 const OkulAile = () => {
   return (
@@ -627,6 +628,8 @@ const OkulAile = () => {
           </div>
         </div>
       </section>
+
+      <Feedback/>
     </div>
   );
 };

@@ -152,4 +152,20 @@ export const uz = {
     sertificate: "Sertifikatlar",
 
 
+    otziv: "Mijozlarimizning sharhlari",
+
+    feedback_desc1:"Bilge xususiy maktablari sifatida biz qariyb 2 yildan beri o‘quv avtomatizatsiyasidan foydalangan holda talaba, ota-ona va maktab o‘rtasida aloqa o‘rnatamiz. Biz foydalanadigan aloqa tizimi bizga kerak bo'lgan va qilmoqchi bo'lgan har qanday ishni qo'llab-quvvatlashga mos keladi, lekin uning ko'rsatmalari juda aniq, unga kirish juda oson va bu foydalanuvchi qoniqish darajasi yuqori bo'lgan dastur. O'zgaruvchan sharoitlarga moslashishning buyuk kuchi, zamonaviy va innovatsion dasturning mavjudligi bizning tanlash sabablarimiz orasida eng muhim ulushga ega.",
+    feedback_auth1:"Bog'cha direktori - Gulay Gurchay",
+    feedback_kind1: "Xususiy Bilge bog'chalari",
+  
+    feedback_desc2:"Beykozdagi birinchi va yagona Montessori bolalar bog'chasi sifatida biz 4 yil oldin Hangelci Montessori bolalar bog'chasiga asos solgan edik. Biz OkulAile jamoasi bilan 3 yildan beri ishlaymiz. Biz tabiat va o'rmon ta'limini himoya qiladigan va isrofgarchilikning oldini olishga intiluvchi muassasamiz. Biz oziq-ovqat qoldiqlarini tovuqxonaga, xom sabzavot va meva qoldiqlarini kompostga, qog'ozni qayta ishlashga jo'natamiz. OkulAile tufayli biz qog'ozdan foydalanmasdan ota-onalarimizga e'lon qilamiz. Ota-onalarimiz farzandining kunduzi nima qilayotganini kuzatib turishi mumkin, shunda ular kechqurun uyda ko'p gapirishadi. Xabar almashish moduli tufayli biz ancha sog'lom muloqot qilamiz va yozib olamiz. OKULAILE ota-onalar, o'qituvchilar va oylik axborotnomalar, so'rovnomalar, hujjatlar va to'lovlar kabi ma'muriy guruhlarga ega. Har qanday muammoga duch kelganimizda, qo'llab-quvvatlash jamoasi darhol keladi va ular bizning muammomizni hal qilishadi. Biz Montessori oilasining bir qismi bo'lgan do'stona va iliq qonli OKULAILE xodimlarini ko'ramiz. Bizning vazifamizni osonlashtirganingiz uchun tashakkur.",
+    feedback_auth2:"Bog'cha asoschisi Emine Chengelchi",
+    feedback_kind2: "Chengelchi bolalar bog'chasi",
+  
+    feedback_desc3:"OkulAile ilovasi ish hayotimizni osonlashtiradigan dizayni va mazmuni bilan bizning ehtiyojlarimizga javob beradigan biznes uchun qulay platformadir. U mukammal mijozlarga xizmat ko'rsatish va texnik xizmatlarga ega va har doim mavjud. Qanchalik ko'p foydalansak, shunchalik yaxshi aytamizki, biz sevadigan va sevadigan maktab tizimi, menimcha, u bizdan o'ndan o'n ball oladi. Ularning dizaynerlari va butun jamoangizga katta rahmat. Biznes bilan shug'ullanganingiz yaxshi.",
+    feedback_auth3:"Bilge Arilar bolalar bog'chasi mudiri",
+    feedback_kind3: "Wise Bees bolalar bog'chasi",
+  
+    readmore: "ko'proq",
+    readless: "kamroq",
 };
